@@ -1,4 +1,5 @@
 body{
   background-image: url(../back.jpg);
-  background-size: 5%5% cover;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
